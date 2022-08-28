@@ -60,11 +60,11 @@ class Home:
 	def home(self): # don't edit this banner lol
 		print(f"""
                         {Color.LG}╔══════════════════════╗
-    {Color.LC}╔═╗{Color.LB} ╔╦╗╔═╗╔═╗╦      {Color.LG}║ {Color.LR}Created: {Color.LY}5/3/22      {Color.LG}║
+    {Color.LC}╔═✔{Color.LB} 💕    {Color.LG}║ {Color.LR}Created: {Color.LY}5/3/22      {Color.LG}║
     {Color.LC}╠╣{Color.LB}{Color.LR}───{Color.LB}║ ║ ║║Nguyễn Minh Khang ║║      {Color.LG}║ {Color.LR}Updated: {Color.LY}8/3/22      {Color.LG}║
     {Color.LC}╚{Color.LB}    ╩ ╚═╝╚═╝╩═╝{Color.LG}v2  {Color.LG}║ {Color.LB}Simple but mighty XD {Color.LG}║
                         {Color.LG}╚══════════════════════╝
-    {Color.LR}[{Color.LG}>     Made with ☕ By FDc0d3 & Aya    {Color.LG}<{Color.LR}]""")
+    {Color.LR}[{Color.LG}>     Made with ☕ By Nguyễn Minh Khang  {Color.LG}<{Color.LR}]""")
 		print(Color.LC+"    Type "+Color.LB+"'HELP'"+Color.LC+" to see all commands\n\n")
 		print(Color.LR+"["+Color.LG+"01"+Color.LR+"]"+Color.LC+" Proxy")
 		print(Color.LR+"["+Color.LG+"02"+Color.LR+"]"+Color.LC+" WebTool")
@@ -474,7 +474,7 @@ class Tool:
 		print(f"""{Color.LG}
      __                       _  _
     / /  __ _ _   _  ___ _ __| || |
-   / /  / _` | | | |/ _ \ '__| || |_
+   / /  / _` | | | |/ _ \ '__| || |_ :> Nguyễn Minh Khang
   / /__| (_| | |_| |  __/ |  |__   _|
   \____/\__,_|\__, |\___|_|     |_|
               |___/
@@ -570,7 +570,7 @@ class Tool:
      __                      _____
     / /  __ _ _   _  ___ _ _|___  |
    / /  / _` | | | |/ _ \ '__| / /
-  / /__| (_| | |_| |  __/ |   / /
+  / /__| (_| | |_| |  __/ |   / / :> Nguyễn Minh Khang
   \____/\__,_|\__, |\___|_|  /_/
               |___/
 
